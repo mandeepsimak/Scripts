@@ -11,7 +11,7 @@ Shell Scripts
         <b>How to run</b><br>
         Run following command in terminal<br>
         <i>$ bash array.sh</b><br>
-        OR
+        OR<br>
         <i>$ ./array.sh</i>
     </li>
 </ul>
